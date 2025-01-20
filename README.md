@@ -1,6 +1,7 @@
 # Figuring-handwritten-digits-PCA-
 
 ## Code
+[PCA](https://github.com/Sharma-Amol/Figuring-handwritten-digits-PCA-/blob/main/Portfolio%20Project%20-%20Principal%20Component%20Analysis%20Final.ipynb)
 
 ## Context
 The goal of this exercise is to figure out which handwritten digits are most differentiated with PCA.
@@ -10,10 +11,10 @@ Scenario - Imagine you are working on an image recognition service for a postal 
 This exercise and the associated dataset were provided as part of the excellent course 'Python for Machine Learning and Data Science Masterclass' by Jose Portilla on [Udemy](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/), which I successfully completed.
 
 ## Dataset
-
+[Digits](https://github.com/Sharma-Amol/Figuring-handwritten-digits-PCA-/blob/main/digits.csv)
 
 ## Algorithm
-Principal Component Analysis
+Principal Component Analysis (PCA)
 
 ## Libraries
  * Numpy
