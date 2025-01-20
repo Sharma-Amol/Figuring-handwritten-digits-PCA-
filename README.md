@@ -1,4 +1,4 @@
-# Figuring-handwritten-digits-PCA-
+# Figuring-handwritten-digits (PCA)
 
 ## Code
 [PCA](https://github.com/Sharma-Amol/Figuring-handwritten-digits-PCA-/blob/main/Portfolio%20Project%20-%20Principal%20Component%20Analysis%20Final.ipynb)
